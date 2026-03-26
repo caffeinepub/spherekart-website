@@ -19,7 +19,7 @@ const COMPANY_DETAILS = [
   {
     icon: Phone,
     label: "Phone",
-    value: "+91 80 4567 8900",
+    value: "+91 93 5346 7077",
   },
   {
     icon: Mail,
