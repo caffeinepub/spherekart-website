@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+Sitemap: https://spherekart-website-d1c.caffeine.xyz/sitemap.xml
